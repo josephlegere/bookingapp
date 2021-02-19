@@ -8,8 +8,8 @@
 
 ## Requirements
 
-1 hr (or 40 minutes) long timeslots. Fixed Times.
-Only during Weekdays from 8 AM to 4 PM.
+1 hour long timeslots. Fixed Times.
+Only during Weekdays with their desired timings or work hours.
 Time slots are uniformed all throughout the days of the week, this include weekends
 
 ## The Mobile App
