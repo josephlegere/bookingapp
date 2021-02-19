@@ -1,6 +1,6 @@
 # Booking /Appointment App
 
-**/booking (Mobile App)** - Buyers can book and make appointment
+**/booking (Mobile App)** - Buyers can book and make appointment \n
 **/BookingApp (Web App)** - Sellers can retrieve bookings then confirm / reject bookings
 **/booking_service (Node JS Server)** - Backend service for the booking app
 
